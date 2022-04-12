@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/christian-alcalde/node-files/issues"
   },
-  "homepage": "https://github.com/christian-alcalde/node-files#readme"
+  "homepage": "https://github.com/christian-alcalde/node-files#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
